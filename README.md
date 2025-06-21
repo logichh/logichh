@@ -75,8 +75,10 @@ Stack: React/Next + Node + JS + CSS/HTML
 
 Started making my own game with c# in unity
 Hyper-realistic business money simulator with aspects of AI rivals, real life strategies, real life systems..etc
-![image](https://github.com/user-attachments/assets/40a1e944-7cce-4b98-9bf9-c25b26f8018d)
-![image](https://github.com/user-attachments/assets/339bfa9b-58d1-490b-83c1-0850e22b5705)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/339bfa9b-58d1-490b-83c1-0850e22b5705" width="250" style="margin:10px"/>
+  <img src="https://github.com/user-attachments/assets/40a1e944-7cce-4b98-9bf9-c25b26f8018d" width="250" style="margin:10px"/>
+</p>
 
 📫 Contact
 Email: milinbiznis@gmail.com
