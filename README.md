@@ -19,9 +19,6 @@ I'm a full stack developer with a strong focus on Minecraft plugin development a
   Writing tools/scripts to speed up dev workflows. GitHub Actions, CLI utilities, and other backend helpers.
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Machine-Maker&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -46,6 +43,10 @@ I'm a full stack developer with a strong focus on Minecraft plugin development a
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="30" alt="neovim logo"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Machine-Maker&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div
+  
 📦 Featured Projects
 
 🔧 Capture Zones
