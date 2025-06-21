@@ -54,7 +54,6 @@ Built for Paper 1.21
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1ba1a1a1-4bd8-4f58-841e-bd034f68c9f8" width="250" style="margin:10px"/>
-  <img src="https://github.com/user-attachments/assets/e93bb764-5240-4d14-b0e3-a1bee9357572" width="250" style="margin:10px"/>
 </p>
 
 
