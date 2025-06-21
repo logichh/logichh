@@ -39,7 +39,7 @@ I'm a full stack developer with a strong focus on Minecraft plugin development a
 </div
 
 ---
-##📦 Featured Projects
+## 📦 Featured Projects
 
 🔧 Capture Zones
 
