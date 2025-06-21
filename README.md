@@ -41,6 +41,14 @@ I'm a full stack developer with a strong focus on Minecraft plugin development a
 ---
 ## 📦 Featured Projects
 
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/63fd18c9-a2f4-413b-91e6-68836884c8ea" width="300"/>
+  <img src="https://github.com/user-attachments/assets/e586d5e8-fbc0-433d-8886-9b5b41e78d92" width="300"/>
+  <img src="https://github.com/user-attachments/assets/e93bb764-5240-4d14-b0e3-a1bee9357572" width="300"/>
+  <img src="https://github.com/user-attachments/assets/1ba1a1a1-4bd8-4f58-841e-bd034f68c9f8" width="300"/>
+  <img src="https://github.com/user-attachments/assets/8105a581-a42e-4c9a-a238-3c1d53a3c022" width="300"/>
+</p>
+
 🔧 Capture Zones [[Github repo]](https://github.com/logichh/CaptureZones)
 
 Towny Capture Zones plugin remake
