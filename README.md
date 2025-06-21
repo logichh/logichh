@@ -22,7 +22,6 @@ I'm a full stack developer with a strong focus on Minecraft plugin development a
 
 ## 🧰 Tech Stack
 
-```plaintext
 Languages:   Java, JavaScript/TypeScript, HTML/CSS, SQL, JSON, C#
 Frontend:    React, Tailwind, Next.js
 Backend:     Node.js, Express, Firebase
