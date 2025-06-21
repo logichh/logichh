@@ -59,8 +59,7 @@ Built for Paper 1.21
 
 🎨 ConquerEarthMC Gun Pack
 Custom models/textures
-![image](https://github.com/user-attachments/assets/49c8f276-b041-493f-a54e-3588dde58055)
-![image](https://github.com/user-attachments/assets/761592f0-c70d-4ce6-973d-3395f9b5475f)
+![image](https://github.com/user-attachments/assets/49c8f276-b041-493f-a54e-3588dde58055) ![image](https://github.com/user-attachments/assets/761592f0-c70d-4ce6-973d-3395f9b5475f)
 ![image](https://github.com/user-attachments/assets/3b32380b-4a2a-43ed-b289-83103f7a82da)
 
 
