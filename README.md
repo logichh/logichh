@@ -7,7 +7,7 @@ I'm a full stack developer with a strong focus on Minecraft plugin development a
 ## 🚀 What I Do
 
 - **Full Stack Web Development**  
-  Building responsive apps using [React/Vue/etc.], Node.js, Express, MongoDB, and more.
+  Building responsive apps using React, Node.js, Express, MongoDB, and more.
 
 - **Minecraft Plugin Development**  
   Creating custom plugins for Spigot/Paper using Java (Java 21 ready), with support for custom items, GUIs, and server mechanics.
