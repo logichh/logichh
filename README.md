@@ -41,7 +41,7 @@ I'm a full stack developer with a strong focus on Minecraft plugin development a
 ---
 ## 📦 Featured Projects
 
-🔧 Capture Zones
+🔧 Capture Zones [[Github repo]](https://github.com/logichh/CaptureZones)
 
 Towny Capture Zones plugin remake
 Built for Paper 1.21
@@ -56,7 +56,6 @@ Built for Paper 1.21
 
 ![image](https://github.com/user-attachments/assets/8105a581-a42e-4c9a-a238-3c1d53a3c022)
 
-[[Github repo]](https://github.com/logichh/CaptureZones)
 
 🎨 ConquerEarthMC Gun Pack
 Custom models/textures
@@ -65,17 +64,16 @@ Custom models/textures
 ![image](https://github.com/user-attachments/assets/3b32380b-4a2a-43ed-b289-83103f7a82da)
 
 
-🌐 DeluxeMenus Web Editor 1.21.5
+🌐 DeluxeMenus Web Editor 1.21.5 [[Live link]](https://github.com/logichh/adykei)
 Stack: React/Next + Node + JS + CSS/HTML
 ![image](https://github.com/user-attachments/assets/9c8e35b3-dd3b-4ca3-a03d-916ca347d0e5)
-[[Live link]](https://github.com/logichh/adykei)
 
-🎮 Capital Architect (EARLY DEVELOPMENT PHASE)
+🎮 Capital Architect (EARLY DEVELOPMENT PHASE) [[Github repo]](https://github.com/logichh/Capital)
+
 Started making my own game with c# in unity
 Hyper-realistic business money simulator with aspects of AI rivals, real life strategies, real life systems..etc
 ![image](https://github.com/user-attachments/assets/40a1e944-7cce-4b98-9bf9-c25b26f8018d)
 ![image](https://github.com/user-attachments/assets/339bfa9b-58d1-490b-83c1-0850e22b5705)
-[[Github repo]](https://github.com/logichh/Capital)
 
 📫 Contact
 Email: milinbiznis@gmail.com
