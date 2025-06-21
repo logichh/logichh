@@ -34,6 +34,11 @@ Minecraft:   Paper, Spigot, OptiFine, Blockbench, Datapacks, Maven
 Towny Capture Zones plugin remake
 Built for Paper 1.21
 
+<p float="left">
+  <img src="images/img1.png" width="200"/>
+  <img src="images/img2.png" width="200"/>
+  <img src="images/img3.png" width="200"/>
+</p>
 ![image](https://github.com/user-attachments/assets/63fd18c9-a2f4-413b-91e6-68836884c8ea)
 ![image](https://github.com/user-attachments/assets/e586d5e8-fbc0-433d-8886-9b5b41e78d92)
 ![image](https://github.com/user-attachments/assets/e93bb764-5240-4d14-b0e3-a1bee9357572)
