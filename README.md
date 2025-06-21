@@ -63,7 +63,7 @@ Custom models/textures
 <p align="center">
   <img src="https://github.com/user-attachments/assets/caca8cb8-abaf-4d32-80ec-16883a76f4e6" width="250" style="margin:10px"/>
   <img src="https://github.com/user-attachments/assets/761592f0-c70d-4ce6-973d-3395f9b5475f" width="250" style="margin:10px"/>
-  <img src="https://github.com/user-attachments/assets/3b323880-4a2a-43ed-b289-83103f7a82da" width="250" style="margin:10px"/>
+  <img src="https://github.com/user-attachments/assets/77905a58-643d-45c2-b225-273adb1989c6" width="250" style="margin:10px"/>
 </p>
 
 
