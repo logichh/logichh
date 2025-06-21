@@ -28,9 +28,15 @@ Backend:     Node.js, Express, Firebase
 Minecraft:   Paper, Spigot, OptiFine, Blockbench, Datapacks, Maven
 
 📦 Featured Projects
+
 🔧 Capture Zones
 Towny Capture Zones plugin remake
 Built for Paper 1.21
+![image](https://github.com/user-attachments/assets/63fd18c9-a2f4-413b-91e6-68836884c8ea)
+![image](https://github.com/user-attachments/assets/e586d5e8-fbc0-433d-8886-9b5b41e78d92)
+![image](https://github.com/user-attachments/assets/e93bb764-5240-4d14-b0e3-a1bee9357572)
+![image](https://github.com/user-attachments/assets/1ba1a1a1-4bd8-4f58-841e-bd034f68c9f8)
+![image](https://github.com/user-attachments/assets/8105a581-a42e-4c9a-a238-3c1d53a3c022)
 [[Github repo]](https://github.com/logichh/CaptureZones)
 
 🎨 ConquerEarthMC Gun Pack
@@ -40,8 +46,9 @@ Custom models/textures
 ![image](https://github.com/user-attachments/assets/3b32380b-4a2a-43ed-b289-83103f7a82da)
 
 
-🌐 DeluxeMenus Web Editor
+🌐 DeluxeMenus Web Editor 1.21.5
 Stack: React/Next + Node + JS + CSS/HTML
+![image](https://github.com/user-attachments/assets/9c8e35b3-dd3b-4ca3-a03d-916ca347d0e5)
 [[Live link]](https://github.com/logichh/adykei)
 
 🎮 Capital Architect (EARLY DEVELOPMENT PHASE)
