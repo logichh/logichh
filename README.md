@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a7c2c369-e3bc-4b39-8f28-60f7fd45d625)# 👋 Hi, I'm Logichh {Milin}
+👋 Hi, I'm Logichh {Milin}
 
 I'm a full stack developer with a strong focus on Minecraft plugin development and custom resource pack creation. I build for the web and for the block.
 
