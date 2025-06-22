@@ -15,8 +15,7 @@ I'm a full stack developer with a strong focus on Minecraft plugin development a
 - **Resource Pack Design**  
   Custom textures, UI, and models for Minecraft (OptiFine-compatible and vanilla).
 
-- **Tooling & Automation**  
-  Writing tools/scripts to speed up dev workflows. GitHub Actions, CLI utilities, and other backend helpers.
+- And More..
 
 ---
 ## 🧰 Tech Stack
@@ -69,7 +68,7 @@ Stack: React/Next + Node + JS + CSS/HTML
   <img src="https://github.com/user-attachments/assets/9c8e35b3-dd3b-4ca3-a03d-916ca347d0e5" width="400" style="margin:10px"/>
 </p>
 
-🎮 Capital Architect (EARLY DEVELOPMENT PHASE) [[Github repo]](https://github.com/logichh/Capital)
+🎮 Capital Architect (EARLY DEVELOPMENT PHASE)
 
 Started making my own game with c# in unity
 Hyper-realistic business money simulator with aspects of AI rivals, real life strategies, real life systems..etc
