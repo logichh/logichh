@@ -62,7 +62,7 @@ Custom models/textures
 </p>
 
 
-🌐 DeluxeMenus Web Editor 1.21.5 [[Live link]](https://github.com/logichh/adykei)
+🌐 DeluxeMenus Web Editor 1.21.5 [[Live link]](https://logichh.github.io/adykei/)
 Stack: React/Next + Node + JS + CSS/HTML
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9c8e35b3-dd3b-4ca3-a03d-916ca347d0e5" width="400" style="margin:10px"/>
