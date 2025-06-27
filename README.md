@@ -1,4 +1,4 @@
-👋 Hi, I'm Logichh {Milin}, I'm a full-stack developer. I code custom Spigot and Paper servers plugins, like Towny addons, Lifesteal, PvP mechanics, ranks, crates, cosmetics, and more. I also code websites, dashboards with React and Node js. I concentrate on clean code, simple configs, and ensuring everything operates as you wish. If you have a concept, I'm here to assist in bringing it to reality.
+![image](https://github.com/user-attachments/assets/c716b877-01a8-4a0e-9c61-993e70c4f9a2)👋 Hi, I'm Logichh {Milin}, I'm a full-stack developer. I code custom Spigot and Paper servers plugins, like Towny addons, Lifesteal, PvP mechanics, ranks, crates, cosmetics, and more. I also code websites, dashboards with React and Node js. I concentrate on clean code, simple configs, and ensuring everything operates as you wish. If you have a concept, I'm here to assist in bringing it to reality.
 I also run and manage https://conquerearthmc.com , a towny server with strong history, awesome community and many more.
 
 ---
@@ -72,8 +72,8 @@ Stack: React/Next + Node + JS + CSS/HTML
 Started making my own game with c# in unity
 Hyper-realistic business money simulator with aspects of AI rivals, real life strategies, real life systems..etc
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/339bfa9b-58d1-490b-83c1-0850e22b5705" width="400" style="margin:10px"/>
-  <img src="https://github.com/user-attachments/assets/40a1e944-7cce-4b98-9bf9-c25b26f8018d" width="400" style="margin:10px"/>
+  <img src="https://github.com/user-attachments/assets/731bca5f-93ef-4e2d-863f-fe4a001016c4" width="400" style="margin:10px"/>
+
 </p>
 
 📫 Contact
