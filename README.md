@@ -1,6 +1,5 @@
-👋 Hi, I'm Logichh {Milin}
-
-I'm a full stack developer with a strong focus on Minecraft plugin development and custom resource pack creation. I build for the web and for the block.
+👋 Hi, I'm Logichh {Milin}, I'm a full-stack developer. I code custom Spigot and Paper servers plugins, like Towny addons, Lifesteal, PvP mechanics, ranks, crates, cosmetics, and more. I also code websites, dashboards with React and Node js. I concentrate on clean code, simple configs, and ensuring everything operates as you wish. If you have a concept, I'm here to assist in bringing it to reality.
+I also run and manage https://conquerearthmc.com , a towny server with strong history, awesome community and many more.
 
 ---
 
