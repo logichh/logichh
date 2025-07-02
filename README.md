@@ -73,11 +73,13 @@ Started making my own game with c# in unity
 Hyper-realistic business money simulator with aspects of AI rivals, real life strategies, real life systems..etc
 <p align="center">
   <img src="https://github.com/user-attachments/assets/731bca5f-93ef-4e2d-863f-fe4a001016c4" width="400" style="margin:10px"/>
-
 </p>
 
 📫 Contact
 Email: milinbiznis@gmail.com
 Discord: @milin001
-![image](https://github.com/user-attachments/assets/2088a615-9efa-4a53-8871-f467bec9a158)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2088a615-9efa-4a53-8871-f467bec9a158" width="400" style="margin:10px"/>
+</p>
+
 
