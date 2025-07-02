@@ -79,3 +79,5 @@ Hyper-realistic business money simulator with aspects of AI rivals, real life st
 📫 Contact
 Email: milinbiznis@gmail.com
 Discord: @milin001
+![image](https://github.com/user-attachments/assets/2088a615-9efa-4a53-8871-f467bec9a158)
+
